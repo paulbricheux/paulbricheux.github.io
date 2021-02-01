@@ -78,17 +78,17 @@
 }
 
 .title {
-  background: $gray-400;
+  background-color:: $gray-400;
 }
 .formation {
-  background: $blue-200;
+  background-color:: $blue-200;
 }
 .experiences {
-  background: $yellow-200;
+  background-color:: $yellow-200;
 }
 .projets {
-  background: $red-400;
+  background-color:: $red-400;
 }
 .hobbies {
-  background: $teal-400;
+  background-color:: $teal-400;
 }
