@@ -57,17 +57,17 @@
 }
 
 .title {
-  background: purple;
+  background: $gray-400;
 }
 .formation {
-  background: indigo;
+  background: $blue-200;
 }
 .experiences {
-  background: purple;
+  background: $yellow-200;
 }
 .projets {
-  background: indigo;
+  background: $red-400;
 }
 .hobbies {
-  background: purple;
+  background: $teal-400;
 }
