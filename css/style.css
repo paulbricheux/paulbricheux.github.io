@@ -52,3 +52,22 @@
   background: #1565C0;
 }
 
+.element > * {
+  flex: 1 100%;
+}
+
+.title {
+  background: purple;
+}
+.formation {
+  background: indigo;
+}
+.experiences {
+  background: purple;
+}
+.projets {
+  background: indigo;
+}
+.hobbies {
+  background: purple;
+}
